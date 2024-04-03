@@ -21,5 +21,5 @@ output "my-var" {
 }
 
 module "vpc" {
-  source = "github.com/leilamessi/terraform-week7"
+  source = "github.com/leilamessi/terraform-Project-vpc-sgr-s3"
 }
